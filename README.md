@@ -4,6 +4,9 @@ Welcome to the public repo for this course.
 
 Below is the list of assignments and ungraded labs course-wise.
 
+# Specialization certificate:
+![Certificate](CERTIFICATE_2KLREHCXT5FG.jpeg)
+
 
 ### Want to contribute?
 
@@ -203,5 +206,3 @@ If you find a bug that is blocking in any way consider joining our [community](h
 2. Sunspots _(C4_W4_Lab_2_Sunspots.ipynb)_
 3. Sunspots - DNN Only _(C4_W4_Lab_3_DNN_only.ipynb)_
 
-# Specialization certificate:
-![Certificate](CERTIFICATE_2KLREHCXT5FG.jpeg)
