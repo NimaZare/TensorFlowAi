@@ -4,7 +4,7 @@ Welcome to the public repo for this course.
 
 Below is the list of assignments and ungraded labs course-wise.
 
-# Specialization certificate:
+# Specialization Certificate:
 ![Certificate](CERTIFICATE_2KLREHCXT5FG.jpeg)
 
 
